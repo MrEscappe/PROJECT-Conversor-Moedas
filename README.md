@@ -17,5 +17,5 @@ Para rodar o projeto, basta clonar o repositório e abrir o projeto em uma IDE q
 
 ## Autor
 - José Sergio Pinto da silva
-linkedin: [José Sergio Pinto da Silva](www.linkedin.com/in/josésérgiopsilva)
-```
+
+Linkedin: [José Sergio Pinto da Silva](www.linkedin.com/in/josésérgiopsilva)
